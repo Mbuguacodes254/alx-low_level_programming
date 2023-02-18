@@ -6,7 +6,7 @@
 int main(void)
 {
 	char c;
-	ini i;
+	int i;
 	long l;
 	long long ll;
 	float f;
