@@ -1,3 +1,8 @@
+/*
+ * File: 2-add_node.c
+ * Auth: Elizabeth W Mbugua
+ */
+
 #include "lists.h"
 #include <string.h>
 
