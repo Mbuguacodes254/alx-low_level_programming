@@ -2,7 +2,7 @@
  * File: 4-clear_bit.c
  * Auth: Mbugua Wairimu
  * Kimba
- * /
+ */
 
 #include "holberton.h"
 
